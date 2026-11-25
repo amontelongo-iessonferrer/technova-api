@@ -1,0 +1,7 @@
+node_modules
+.git
+public
+bd
+nginx
+deploy.sh
+*.env

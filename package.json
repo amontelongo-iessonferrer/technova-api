@@ -1,0 +1,13 @@
+{
+  "name": "technova-api",
+  "version": "1.0.0",
+  "description": "API de TechNova con base de datos en Amazon RDS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.11.0"
+  }
+}
